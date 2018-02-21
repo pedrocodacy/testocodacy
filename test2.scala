@@ -7,4 +7,5 @@ val c = 3
 val d = 4
 val e = 5
 val f = 6
+val g = 7
 
