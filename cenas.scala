@@ -17,3 +17,5 @@ val bleeeee = 680
 val bleeeeee = 681
 val bleeeeeee = 682
 val bleeeeeeee = 683
+
+var bla = "asdas"
